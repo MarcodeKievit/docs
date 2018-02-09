@@ -24,7 +24,7 @@ The security level defines how security is applied and which security settings n
 
 {{% alert type="warning" %}}
 
-Security levels 'Off' and 'Prototype / demo' are only allowed in development and test. For acceptance and production you need to use the 'Production' security level and configure all security settings accordingly.
+Security levels 'Off' and 'Prototype / demo' are only allowed when running a free app on your local machine or in a sandbox environment. For running an app on a licensed node (in a cloud or on premises), you need to use the 'Production' security level and configure all security settings accordingly.
 
 {{% /alert %}}{{% alert type="info" %}}
 
